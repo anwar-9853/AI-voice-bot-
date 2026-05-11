@@ -1,0 +1,7 @@
+
+SpeechRecognition>=3.8.1
+pyttsx3==2.90
+pyaudio; platform_system != "Darwin"
+pocketsphinx
+openai>=1.0.0
+streamlit==1.32.2
